@@ -67,7 +67,8 @@ Crea un archivo .env y agrega:
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=1234
-###▶️ Uso
+
+### ▶️ Uso
 
 Explica cómo usar tu aplicación:
 
@@ -80,28 +81,29 @@ Ejemplo:
 Inicia sesión
 Crea un producto
 Realiza una venta
-###📌 Funcionalidades
+
+### 📌 Funcionalidades
 CRUD de productos
 Autenticación de usuarios
 Reportes de ventas
-###🧪 Pruebas
+### 🧪 Pruebas
 # Ejecutar tests
 npm run test
-###📷 Screenshots
+### 📷 Screenshots
 
 Agrega imágenes aquí si es necesario.
 
-###🤝 Contribución
+### 🤝 Contribución
 Fork del proyecto
 Crear rama (git checkout -b feature/nueva-feature)
 Commit (git commit -m 'Agrega nueva feature')
 Push (git push origin feature/nueva-feature)
 Pull Request
-###📄 Licencia
+### 📄 Licencia
 
 Este proyecto está bajo la licencia MIT.
 
-###📞 Contacto
+### 📞 Contacto
 Nombre
 Email
 LinkedIn / GitHub
